@@ -1,2 +1,2 @@
-# master-game-ui
-Website interface for the Game, part of the master thesis.
+# Frontend for the game UI
+This Project which is part of the masterthesis game, contains the Game UI and Questionnaires users filled out during the application.
